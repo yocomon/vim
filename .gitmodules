@@ -1,3 +1,0 @@
-[submodule "pack/plugins/start/cscope"]
-	path = pack/plugins/start/cscope
-	url = https://github.com/vim-scripts/cscope.vim.git
